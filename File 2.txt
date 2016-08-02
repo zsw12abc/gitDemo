@@ -1,1 +1,3 @@
-Initial Fiel 2 text in master branch
+Initial File 2 text in master branch
+
+More changes in File 2
